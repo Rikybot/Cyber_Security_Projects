@@ -43,8 +43,8 @@ def mythreads(en, st):
         thread.start()
 
 
-'''for thread in threads:
+for thread in threads:
 thread.join()
-'''
+
 
 mythreads(ed, st)
