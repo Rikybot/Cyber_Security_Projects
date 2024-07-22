@@ -12,5 +12,4 @@ A simple yet effective port scanner written in Python. This tool can be used to 
 ## Requirements
 
 - Python 3.x
-- 
-
+- Operating System: Windows or Linux
