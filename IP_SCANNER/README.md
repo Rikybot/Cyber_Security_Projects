@@ -14,10 +14,3 @@ A Python-based IP Scanner to discover active IP addresses within a specified ran
 - Python 3.x
 - Operating System: Windows or Linux
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Rikybot/Cyber_Security_Projects/IP_Scanner.py
-   cd IP-Scanner
