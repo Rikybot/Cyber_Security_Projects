@@ -19,5 +19,5 @@ A Python-based IP Scanner to discover active IP addresses within a specified ran
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/IP-Scanner.git
+   git clone https://github.com/Rikybot/Cyber_Security_Projects/IP-Scanner.git
    cd IP-Scanner
